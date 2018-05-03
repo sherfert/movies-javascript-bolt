@@ -5,8 +5,10 @@
   "repository": "",
   "license": "PRIVATE",
   "dependencies": {
+    "js-datepicker": "^2.3.2",
     "lodash": "^4.15.0",
-    "neo4j-driver": "^1.0.4"
+    "neo4j-driver": "1.6.0",
+    "openlayers": "^4.6.5"
   },
   "devDependencies": {
     "babel-core": "^6.3.26",
